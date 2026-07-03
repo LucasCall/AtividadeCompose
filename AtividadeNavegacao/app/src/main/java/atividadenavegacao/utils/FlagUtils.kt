@@ -5,7 +5,7 @@ fun getFlag(team: String): String {
         "Brasil" -> "🇧🇷"
         "Argentina" -> "🇦🇷"
         "França" -> "🇫🇷"
-        "Inglaterra" -> "🏴"
+        "Inglaterra" -> "GB"
         "Portugal" -> "🇵🇹"
         "Espanha" -> "🇪🇸"
         "Noruega" -> "🇳🇴"
